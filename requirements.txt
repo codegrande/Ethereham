@@ -1,2 +1,19 @@
 eth-brownie
 argparse
+aiohttp>=3.10.2 # not directly required, pinned by Snyk to avoid a vulnerability
+black>=24.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
+certifi>=2024.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
+eth-abi>=5.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
+eth-keyfile>=0.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
+pycryptodome>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
+pygments>=2.15.0 # not directly required, pinned by Snyk to avoid a vulnerability
+pyjwt>=2.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.32.2 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
+tqdm>=4.66.3 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=1.26.19 # not directly required, pinned by Snyk to avoid a vulnerability
+vyper>=0.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
+websockets>=10.0 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
